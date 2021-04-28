@@ -1,3 +1,7 @@
 hi this is file1...i
+<<<<<<< HEAD
 modified second here
 added the 3rd line to file1..
+=======
+modified second here
+>>>>>>> c8bafa0291194406e1962bcb09f7da52be97eba2
